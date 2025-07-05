@@ -1,2 +1,2 @@
-copy and paste the below link on google to access the file:     file:///C:/Users/Fame/AppData/Local/Temp/Rar$DIa0.796/Artifact%203_merged.pdf
-
+LINK TO THE OUTPUT SCREENSHOTS IN PPT FORM: 
+https://github.com/62459/PF-Project-Cplus-plus/blob/main/Presentation%20(1).pptx
